@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChangeItem</string>
+    <string name="cart_title">"カート"</string>
+    <string name="buy_later_title">"あとで買うリスト"</string>
+    <string name="商品画像">list_img</string>
+    <string name="list_img">商品画像</string>
+</resources>
